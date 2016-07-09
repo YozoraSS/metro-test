@@ -15,9 +15,9 @@ func main() {
 // Main function for echo bot
 func Main() int {
 	var (
-		channelID     int64
-		channelSecret = os.Getenv("CHANNEL_SECRET")
-		channelMID    = os.Getenv("CHANNEL_MID")
+		channelID     1465528493
+		channelSecret = os.Getenv("9d668b0329734daa0612c2d17b49f1b2")
+		channelMID    = os.Getenv("ua878bfa47c8b079685b8915c4fa40ffa")
 		err           error
 	)
 
